@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			aboutme
+		</title>
+	</head>
+	<body>
+		<a href="../index.html">Относительная ссылка на index.html</a><br>
+      		<a href="">Абсолютная ссылка на index.html</a>
+	</body>
+</html>
